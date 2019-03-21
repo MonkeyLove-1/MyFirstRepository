@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WelcomeConfig>
+  <Head>英雄联盟更新</Head>
+  <Img>/Images/logo3.jpg</Img>
+  <Icon>/Images/logo.png</Icon>
+  <ServerUrl>http://182.150.21.209:10023/Packages/GSMeet/AutoupdateMeetClient.xml</ServerUrl>
+</WelcomeConfig>
